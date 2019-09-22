@@ -11,9 +11,10 @@ using namespace std;
 
 class Socks {
 protected:
+    WSADATA data;
     SOCKET client;
     sockaddr_in ServerAdder;
-    char receiveBuffer[MAXBYTE];
+    char Buffer[MAXBYTE];
 
 public:
     Socks();

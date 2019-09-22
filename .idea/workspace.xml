@@ -11,7 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="844bffa4-b234-491f-b2ba-b98802328e15" name="Default Changelist" comment="" />
+    <list default="true" id="844bffa4-b234-491f-b2ba-b98802328e15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socks.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Socks.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socks.h" beforeDir="false" afterPath="$PROJECT_DIR$/Socks.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Socket.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Socket.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Socket.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Socket.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +29,13 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1R2MvSYzToHezYcADDIXzojynaq" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Servers" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,10 +75,25 @@
       <updated>1568860967294</updated>
       <workItem from="1568860968954" duration="4190000" />
       <workItem from="1568877140156" duration="4796000" />
+      <workItem from="1569072991926" duration="610000" />
+      <workItem from="1569139820343" duration="8601000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
